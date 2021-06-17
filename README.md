@@ -9,3 +9,6 @@
 
 ## dia 3
     Spread rest operation e alguns exemplos de arrays com find, findIndex e include.
+
+## dia 4
+    Alguns exemplos de async e promisses e Shadow Dom 
